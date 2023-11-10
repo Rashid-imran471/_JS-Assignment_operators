@@ -1,0 +1,2 @@
+The ternary operator in JavaScript is a concise way to write an if-else statement. It's often used when you need to assign a value to a variable based on a condition. The syntax of the ternary operator is as follows:\
+condition ? expression_if_true : expression_if_false;

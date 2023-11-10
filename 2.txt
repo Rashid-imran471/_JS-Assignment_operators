@@ -1,0 +1,4 @@
+The comma operator in JavaScript allows you to evaluate multiple expressions, separating them with commas. It evaluates each expression from left to right and returns the value of the rightmost expression. While the comma operator is not commonly used, it can be useful in certain situations, such as when you want to include multiple expressions in a single statement
+
+Syntax:
+expression1, expression2, expression3, ..., expressionN;
